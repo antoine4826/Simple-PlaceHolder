@@ -1,2 +1,2 @@
 # Simple-PlaceHolder
-Activitée open classroom git and github
+Activity open classroom git and github
